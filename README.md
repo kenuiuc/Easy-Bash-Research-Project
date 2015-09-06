@@ -8,3 +8,8 @@ https://github.com/Aleyasen/LinuxAssist
 
 <p>Source Code is avaliable via my mentor's account:
 https://github.com/Aleyasen/LinuxAssist</p> 
+
+
+<p></p>
+<p></p>
+<img src="poster.jpg" alt="Smiley face"> 
